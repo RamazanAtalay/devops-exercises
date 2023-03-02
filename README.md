@@ -3757,7 +3757,7 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 ## Credits
 
-Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
+Thanks to all of our amazing contributors
 
 Logos credits can be found [here](credits.md)
 
